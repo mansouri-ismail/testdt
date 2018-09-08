@@ -1,5 +1,5 @@
 # testdt
-##testing repo 
-*i
-*am
-*testing
+## testing repo 
+* i
+* am
+* testing
